@@ -1,0 +1,4 @@
+_demo_*
+figures/
+__pycache__/
+*.pyc
